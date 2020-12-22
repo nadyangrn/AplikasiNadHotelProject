@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nad Hotel</string>
+    <string name="slogan">Stay and Enjoy Your Day</string>
+    <string name="penjelasan_app">
+        \n\n\n
+
+        Nad Hotel adalah aplikasi yang menampilkan daftar hotel, dengan detail gambar, nama, alamat dan kontak. Aplikasi ini membantu dalam pencarian rekomendasi yang cocok untuk seseorang yang mnecari tempat tinggal sementara.
+    </string>
+    <string name="daftar">Daftar Nad Hotel</string>
+    <string name="hello_first_fragment">hellofirst</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="second_fragment_label">secondfragmentlabel</string>
+    <string name="first_fragment_label">firstfragmentlabel</string>
+    <string name="action_settings">settings</string>
+    <string name="order_label_text">orderlabel</string>
+    <string name="name_label_text">Nama Pemesan</string>
+    <string name="enter_name_hint">Mr/Mrs XXX</string>
+    <string name="address_label_text">Nama Hotel</string>
+    <string name="enter_address_hint">eg. Hotel La Derra</string>
+    <string name="phone_label_string">Nomor Telepon</string>
+    <string name="enter_phone_hint">08xxxxxxxxxx</string>
+    <string name="note_label_text">Keterangan</string>
+    <string name="enter_note_hint">eg. 2 hari 3 malam, single bed</string>
+    <string name="choose_delivery_method">Metode Pembayaran</string>
+    <string name="same_day_messenger_service">Cash</string>
+    <string name="next_day_ground_delivery">Debit/Kredit</string>
+    <string name="pick_up">Transfer</string>
+    <string name="alarm_off_toast">alarm off</string>
+    <string name="alarm_on_toast">alarm on</string>
+    <string name="notification_title">Reservasi Nad Hotel</string>
+    <string name="notification_text">Segera lakukan pembayaran, reservasi berlaku sampai 1x24 jam dari waktu pemesanan, jika pembayaran melewati ketentuan waktu maka reservasi dianggap batal.</string>
+</resources>
